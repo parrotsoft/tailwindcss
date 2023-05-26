@@ -13,3 +13,4 @@
 - https://heroicons.dev
 - https://tinypng.com/
 - https://simpleicons.org/
+- https://github.com/tailwindlabs/tailwindcss-forms
