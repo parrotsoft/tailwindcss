@@ -7,3 +7,9 @@
 - npm tailwind init -p
 - npm i -D prettier
 - npm i -D prettier-plugin-tailwindcss
+
+# Recursos
+
+- https://heroicons.dev
+- https://tinypng.com/
+- https://simpleicons.org/
